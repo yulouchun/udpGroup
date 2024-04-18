@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="udp.qml">udp.qml</file>
+    </qresource>
+</RCC>
