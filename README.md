@@ -1,1 +1,2 @@
-# udpGroup
+# udpGroup 
+UDP multicast receiving client 
